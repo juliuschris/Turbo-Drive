@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1655043280984061486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1655043280984061487}
+  - component: {fileID: 1655043280984061475}
+  - component: {fileID: 1655043280984061474}
+  - component: {fileID: 1655043280984061485}
+  - component: {fileID: 1655043280984061484}
+  m_Layer: 0
+  m_Name: Waypoint 040
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1655043280984061487
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655043280984061486}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 567.9, y: -397.5, z: -209.3}
+  m_LocalScale: {x: 1.14, y: 1.2, z: 1.2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1655043280984061475
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655043280984061486}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &1655043280984061474
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655043280984061486}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: e17ed915eebecb54590e5fa1d6f97454, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!65 &1655043280984061485
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655043280984061486}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.99999976, y: 1, z: 1.0113986}
+  m_Center: {x: 0, y: 0, z: -0.0056989985}
+--- !u!114 &1655043280984061484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655043280984061486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e260b81af6f91c46b8bbbfbdcd64c0a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TheMarker: {fileID: 1655043280984061486}
+  Mark01: {fileID: 0}
+  Mark02: {fileID: 0}
+  Mark03: {fileID: 0}
+  Mark04: {fileID: 0}
+  Mark05: {fileID: 0}
+  Mark06: {fileID: 0}
+  Mark07: {fileID: 0}
+  Mark08: {fileID: 0}
+  Mark09: {fileID: 0}
+  Mark10: {fileID: 0}
+  Mark11: {fileID: 0}
+  Mark12: {fileID: 0}
+  Mark13: {fileID: 0}
+  Mark14: {fileID: 0}
+  Mark15: {fileID: 0}
+  Mark16: {fileID: 0}
+  Mark17: {fileID: 0}
+  Mark18: {fileID: 0}
+  Mark19: {fileID: 0}
+  Mark20: {fileID: 0}
+  Mark21: {fileID: 0}
+  Mark22: {fileID: 0}
+  Mark23: {fileID: 0}
+  Mark24: {fileID: 0}
+  Mark25: {fileID: 0}
+  Mark26: {fileID: 0}
+  Mark27: {fileID: 0}
+  Mark28: {fileID: 0}
+  Mark29: {fileID: 0}
+  Mark30: {fileID: 0}
+  Mark31: {fileID: 0}
+  Mark32: {fileID: 0}
+  Mark33: {fileID: 0}
+  Mark34: {fileID: 0}
+  Mark35: {fileID: 0}
+  Mark36: {fileID: 0}
+  Mark37: {fileID: 0}
+  Mark38: {fileID: 0}
+  Mark39: {fileID: 0}
+  Mark40: {fileID: 0}
+  MarkTracker: 0
