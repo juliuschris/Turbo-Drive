@@ -1,9 +1,9 @@
 # **Tugas Akhir Grafika Komputer** ![](https://camo.githubusercontent.com/583797472fdd9eb1d376b0e47715ecc4d595fad1/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966)
 
-Repository ini dibuat segabagai laporan tugas akhir dari mata kuliah Grafika Komputer, yaitu membuat sebuah game. Pada kesempatan ini kami membuat game balapan mobil dengan nama _Racing Cars_. Pembuatan game ini menggunakan platform Unity.
+Repository ini dibuat segabagai laporan tugas akhir dari mata kuliah Grafika Komputer, yaitu membuat sebuah game. Pada kesempatan ini kami membuat game balapan mobil dengan nama _Turbo Drive_. Pembuatan game ini menggunakan platform Unity.
 
 ### Game Name : 
-**Racing Cars**
+**Turbo Drive**
 ### Contributors :
 * Julius Christopher Siswanto (G64170097) sebagai Game Programmer
 * Elia Samuel (G64170060) sebagai Game Designer
@@ -38,9 +38,10 @@ Game ini merupakan game balapan mobil berjenis _PC Games_, atau dimainkan melalu
 * Software pendukung yang di gunakan:
   * Unity untuk membuat game
   - Codeblocks sebagai editor
+  - Microsoft Visual Studio 2009
 
 * Dari segi bahasa pemograman :
-  -  bahasa pemograman C# untuk pembuatan game Racing Cars
+  -  bahasa pemograman C# untuk pembuatan game *Turbo Drive*
 
 * Dari segi Hardware :
   - Intel(R) core(TM) i7-8705H CPU
